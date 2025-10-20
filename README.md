@@ -367,7 +367,7 @@ If you find PredictFlow AI useful, please consider:
 
 ---
 
-**Built with ❤️ by Manus AI**
+**Built with ❤️ by Flávio Félix AI**
 
 *Transform your marketing with AI-powered predictions and automation.*
 
